@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+ul{
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+}
+li{
+	list-style-type:none;
+}
+li a{
+	text-decoration:none;
+	
+}
